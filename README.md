@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/immortalrolexx/Suspicious-File-Detection-ML/blob/main/image.png" 
+  <img src="https://github.com/immortalrolexx/Suspicious-File-Detection-ML/blob/main/Image.png" 
        alt="Project Banner" 
        width="100%">
 </p>
