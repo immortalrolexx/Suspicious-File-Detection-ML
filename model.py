@@ -8,9 +8,16 @@ import joblib
 # 1. Load dataset
 data = pd.read_csv("dataset.csv")
 
+# 👉 Drop any rows where content or label is missing
+data = data.dropna(subset=["content", "label"])
+
+# 👉 Make sure label is integer (0 or 1)
+data["label"] = data["label"].astype(int)
+
 # 2. Separate features and labels
 X_text = data["content"]
 y = data["label"]
+
 
 # 3. Convert text to numeric features
 vectorizer = CountVectorizer()
