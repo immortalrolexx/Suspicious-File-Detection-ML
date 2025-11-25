@@ -10,6 +10,11 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+git clone https://github.com/immortalrolexx/Suspicious-File-Detection-ML.git
+cd Suspicious-File-Detection-ML
+pip install -r requirements.txt
+
+
 # 🔍 Suspicious File Detection Using Machine Learning  
 _A Digital Forensics Mini Project_
 
