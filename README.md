@@ -73,7 +73,7 @@ Here is an example of system behaviour when detecting suspicious vs safe files:
 
 Here is an example of system behaviour when detecting suspicious vs safe files:
 
-![Sample Output](sample_output.png)
+![Sample Output](screenshot.png)
 )
 
 
