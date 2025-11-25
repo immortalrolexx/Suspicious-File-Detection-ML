@@ -31,7 +31,6 @@ It is designed for **Digital Forensics, Cybersecurity, and Malware Analysis** sc
 ---
 ## 🧩 Project Architecture Diagram
 
-```mermaid
 flowchart TD
     A[User Input: File Behaviour / Log Description] --> B[Text Preprocessing]
     B --> C[CountVectorizer]
@@ -40,23 +39,6 @@ flowchart TD
     E --> F{Prediction}
     F --> G[🔴 Suspicious File Detected]
     F --> H[🟢 Safe File Detected]
-
-
-⚠️ IMPORTANT:
-- The Mermaid diagram must be inside **three backticks**, like:
-...diagram...
-- NO extra text should be on the same line as the backticks.
-
----
-
-# ✅ Your README will now display the diagram correctly on GitHub.
-
-If you want, I can also generate:
-✅ A **high-quality PNG architecture diagram**  
-✅ A **flowchart-style image**  
-✅ A **professional system design box diagram**
-
-Just tell me **“make PNG diagram”** and I’ll generate it!
 
 
 
