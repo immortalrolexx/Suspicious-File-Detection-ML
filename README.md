@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green)
+![Digital Forensics](https://img.shields.io/badge/Domain-Digital%20Forensics-purple)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # 🔍 Suspicious File Detection Using Machine Learning  
 _A Digital Forensics Mini Project_
 
