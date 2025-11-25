@@ -29,6 +29,18 @@ It is designed for **Digital Forensics, Cybersecurity, and Malware Analysis** sc
 ✔ Simple and effective — ideal for academic projects
 
 ---
+## 🧱 Project Architecture Diagram
+
+```mermaid
+flowchart TD
+    A[User Input:<br/>File Behaviour / Log Description] --> B[Text Preprocessing]
+    B --> C[CountVectorizer]
+    C --> D[Feature Vector]
+    D --> E[Random Forest Classifier]
+    E --> F{Prediction}
+    F --> |Suspicious| G[🔴 Suspicious File Detected]
+    F --> |Safe| H[🟢 Safe File Detected]
+
 
 ## 📁 **Project Structure**
 
