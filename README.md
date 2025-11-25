@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/immortalrolexx/Suspicious-File-Detection-ML/blob/main/image.png" 
+       alt="Project Banner" 
+       width="100%">
+</p>
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green)
 ![Digital Forensics](https://img.shields.io/badge/Domain-Digital%20Forensics-purple)
