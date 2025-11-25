@@ -40,7 +40,23 @@ flowchart TD
     F --> G[🔴 Suspicious File Detected]
     F --> H[🟢 Safe File Detected]
 
+## 📁 Project Structure
 
-
-## 📁 **Project Structure**
+```
+Suspicious-File-Detection-ML/
+│
+├── dataset.csv              # Log-style dataset with file behaviours
+│
+├── model.py                 # Trains ML model (Random Forest)
+├── detect.py                # CLI tool to classify suspicious/safe files
+│
+├── suspicious_model.pkl     # Trained Random Forest model
+├── vectorizer.pkl           # Saved CountVectorizer
+│
+├── image.png                # Project banner
+│
+├── README.md                # Project documentation
+│
+└── venv/                    # Virtual environment (not uploaded to GitHub)
+```
 
