@@ -65,3 +65,15 @@ Suspicious-File-Detection-ML/
 └── venv/                    # Virtual environment (not uploaded to GitHub)
 ```
 
+## 🖼️ Sample Output
+
+Here is an example of system behaviour when detecting suspicious vs safe files:
+
+![Sample Output](## 🖼️ Sample Output
+
+Here is an example of system behaviour when detecting suspicious vs safe files:
+
+![Sample Output](sample_output.png)
+)
+
+
